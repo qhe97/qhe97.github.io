@@ -44,7 +44,5 @@ For the autumn of 2018, I get the M.S. offer from Institute of Automation withou
 
 # Miscellaneous
 
-I'm very interested in science fiction. I am a big fan of [*Remembrance of Earth's Past* (三体, 地球往事三部曲)](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past). I have read almost all the early Chinese science fiction. Besides, I am also a lover of literature. I like magical realism novels and realism novels.
-
-I like watching suspense movies.
+I'm very interested in science fiction. I am a big fan of [*Remembrance of Earth's Past* (三体, 地球往事三部曲)](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past). I have read almost all the early Chinese science fiction. Besides, I am also a lover of literature. I like magical realism novels and realism novels. I like watching suspense movies.
 
