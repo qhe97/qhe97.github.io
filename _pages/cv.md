@@ -11,49 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* B.S. in EE, China University of Geosciences, Beijing (CUGB), Beijing 2015~2019
+* M.S. in Pattern Recognition, Institute of Automation, Chinese Academy of Sciences (CASIA), 2019~2022 (excepted)
+* M.S. in Pattern Recognition, University of Chinese Academy of Sciences (UCAS), 2019~2022 (excepted)
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+
+
+Skills
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+* Pandas, Numpy, Matplotlib, Seaborn, Pytorch, Tensorflow
+* Pycharm, Latex, Office suite
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
+* League Branch secretary in UCAS 2019~2022
+* Minitor in UCAS 2019~2022
+
+# Awards
+
+- National Scholarship for Encouragement 2016/09 in CUGB
+- National Scholarship for Encouragement 2017/09 in CUGB 
+- National Scholarship for Encouragement 2018/09 in CUGB 
+- Sunshine Scholarship
+
+# Honors
+
+- Excellent Student Cadre in UCAS 2018/09
+- Outstanding Graduates in CUGB 2019/06 
+- Outstanding League Cadres in UCAS 2020/05
+- Excellent Student Cadre in UCAS 2020/05

@@ -1,12 +1,4 @@
----
-permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+Qiang He (何强)
 
 I'm currently a second-year master student at [Insititute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/), advised by [Prof Xinwen Hou](http://people.ucas.ac.cn/~xwhou). Before coming to Institute of Automation, I received my B.E. in Electric Engineering from [China University of Geosciences, Beijing](https://www.cugb.edu.cn/) in 2019. Currently, I am looking forward a PhD position. 
 
