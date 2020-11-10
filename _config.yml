@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Qiang He"
 title_separator          : "-"
-name                     : &name "Qiang He"
+name                     : &name "Qiang He (何强)"
 description              : &description "Homepage"
-url                      : https://qhe97.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://qhe97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" https://qhe97.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qhe97/qhe97.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qiang He"
+  name             : "Qiang He (何强)"
   avatar           : "qianghe2017.jpg"
-  bio              : "A Data Scientist. Research Interests include Reinforcement Learning, Machine Learning."
+  bio              : 
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/sweetice"
+  github           : "sweetice"
   google_plus      :
   keybase          :
   instagram        :
