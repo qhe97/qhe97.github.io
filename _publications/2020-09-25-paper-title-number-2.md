@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-09-25-paper-title-number-2
 excerpt: 'We show that a challenge arises when applying value-based algorithms to completely offline data that the explosion of the value function. When we evaluate the value function, the error caused by actions out of the distribution will not be eliminated because the inability to interact with the environment makes it impossible to eliminate this error through the Bellman equation.'
 date: 2020-09-25
-venue: 'NeurIPS'
+venue: 'NeurIPS, WS'
 paperurl: 'paper2.pdf'
 citation: 'Coming Soon'
 ---
